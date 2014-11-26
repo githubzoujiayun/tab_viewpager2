@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">tab_viewpager</string>
+    <string name="title_section1">站站查询</string>
+    <string name="title_section2">站点查询</string>
+    <string name="title_section3">车次查询</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">设置</string>
+
+</resources>
